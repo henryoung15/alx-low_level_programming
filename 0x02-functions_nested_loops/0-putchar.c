@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * we are typing
- * another program
- * but thanks be to God
+ * main - print putchar
+ * Return: always 0
  */
 int main(void)
 {
