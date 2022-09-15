@@ -4,7 +4,7 @@
  * @c: c is the int that will check your papa
  * Return: 0
  */
-int _isalpha(int c)
+int _isalphabet(int c)
 {
 	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{
